@@ -2,7 +2,7 @@
 
 ![screenshot](./readme-assets/home.png)
 Есть возможность отменить последний ход, подсказывает кто ходит следующим.
-
+***
 
 # Getting Started with Create React App
 
