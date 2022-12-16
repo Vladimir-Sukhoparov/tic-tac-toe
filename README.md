@@ -1,7 +1,7 @@
-# Классическая игра крестики-нолики
+# The classic tic-tac-toe game
 
 ![screenshot](./readme-assets/home.png)
-Есть возможность отменить последний ход, подсказывает кто ходит следующим.
+There is an opportunity to cancel the last move, suggests who goes next.
 ***
 
 # Getting Started with Create React App
